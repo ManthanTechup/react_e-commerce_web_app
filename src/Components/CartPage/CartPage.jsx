@@ -2,7 +2,8 @@ import React from 'react'
 
 function CartPage() {
     return (
-        <div>CartPage</div>
+        <div className='bg-danger'>
+            <h1>CartPage</h1></div>
     )
 }
 
